@@ -1,3 +1,23 @@
+## Como rodar o projeto
+
+1. Clone o repositório
+
+```
+git clone https://github.com/Igorcbraz/sistema-bancario-leocodelab
+```
+
+2. Entre no diretório do projeto
+
+```
+cd sistema-bancario-leocodelab
+```
+
+3. Rode o projeto 
+
+```
+deno task start
+```
+
 ## Desafio
 
 Bem-vindo ao Desafio do Sistema Bancário Simples! Neste desafio, você terá a oportunidade de criar um sistema bancário básico utilizando o terminal. Este projeto simples, mas impactante, irá ajudá-lo a desenvolver suas habilidades de programação e criar um projeto real para adicionar ao seu portfólio.
